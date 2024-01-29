@@ -1,0 +1,23 @@
+/* .smile-pay{
+   display: inline-block; 
+   margin-right: 50px;
+}
+.dashboard{
+   display: inline-block; 
+   margin-right: 300px;
+} */
+.sidebar{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.rightbar{
+    margin-top: 30px;
+    margin-left: 0px;
+    /* margin-right: 600px; */
+}
+.icon{
+    margin-bottom: 30px;
+}
+.bottom{
+    margin-top: 50px;
+}
