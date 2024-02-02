@@ -1,0 +1,19 @@
+import React, { useState } from 'react'
+
+const Projects = ({ project }) => {
+    const [projects, setProject] = useState(project.projects)
+
+    const handleChange = e => {
+        setProject(e.target.value)
+    }
+
+    result = (
+                <div>
+                    <li
+                        id={project.id}
+                    >{project.projects}</li>
+                </div>
+            )
+}
+
+export default Projects
