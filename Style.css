@@ -1,0 +1,74 @@
+.project{
+    display: inline-block;
+    margin-right: 20px;
+}
+.task{
+    display: inline-block;
+    margin-right: 20px;
+}
+.Day{
+    display: inline-block;
+}
+.Days{
+    width:20px;
+    margin-right: 10px;
+}
+
+.container {
+  display: flex;
+  /* border: 1px solid #ccc; */
+  padding: 10px;
+  border-radius: 5px;
+  margin: auto; /* Add auto margins to center the container horizontally */
+  width: 50%; 
+  }
+body{
+  background: #FFE5EE !important;;
+}
+.project,
+.task {
+    margin-right: 20px; 
+    margin-bottom: 20px;/* Adjust the margin as needed */
+  }
+  
+  .calculate{
+    margin-top: 52px;
+    /* height:30px;
+    width:80px; */
+    padding:10px;
+    border-radius: 10px;
+    background: #19105B;
+    color:white;
+  }
+
+  .input-container {
+    display: flex;
+  }
+  
+  .add-button {
+    margin-left: 10px;
+    background: #19105B;
+    color:white;
+  }
+  h1{
+    background: #19105B;
+    color:white;
+  }
+  h4{
+    color: #19105B;
+  }
+  .list-box {
+    margin-top: 10px;
+  }
+  
+  .list-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    list-style: none;
+    margin-right: 100px;
+  }
+  
+  
+ 
